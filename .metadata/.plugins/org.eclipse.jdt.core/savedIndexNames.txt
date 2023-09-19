@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+D:\Oscar\ESTUDIO\PROGRAMACION\Cursos-Cibertec\IA\IA_Semana_05_Lab\.metadata\.plugins\org.eclipse.jdt.core
+2866377609.index
+22699913.index
+791594861.index
+1865797976.index
+4149227086.index
